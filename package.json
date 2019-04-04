@@ -1,0 +1,19 @@
+{
+  "name": "merge-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bubblesort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhrowe/merge-sort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonhrowe/merge-sort/issues"
+  },
+  "homepage": "https://github.com/brandonhrowe/merge-sort#readme"
+}
